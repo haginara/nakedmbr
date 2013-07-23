@@ -10,7 +10,7 @@ from partition_table import *
 
 __author__ = "Jonghak Choi"
 
-__license__ = "GPL"
+__license__ = "GPLv3"
 __email__ = "haginara@gmail.com"
 
 
