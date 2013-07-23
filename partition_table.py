@@ -4,7 +4,7 @@ import os
 import sys
 
 __author__ = 'Jonghak Choi'
-__license__ = 'GPL'
+__license__ = 'GPLv3'
 __contact__ = 'haginara@gmail.com'
 
 SECTOR_SIZE = 512
